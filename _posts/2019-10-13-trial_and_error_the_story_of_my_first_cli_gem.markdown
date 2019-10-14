@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Trial and Error the story of my first CLI GEM"
-date:       2019-10-14 02:34:22 +0000
+date:       2019-10-13 22:34:23 -0400
 permalink:  trial_and_error_the_story_of_my_first_cli_gem
 ---
 
