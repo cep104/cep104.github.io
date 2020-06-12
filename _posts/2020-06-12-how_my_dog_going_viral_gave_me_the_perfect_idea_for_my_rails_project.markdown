@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How my dog going viral gave me the perfect idea for My Rails Project"
-date:       2020-06-12 06:59:32 +0000
+date:       2020-06-12 02:59:34 -0400
 permalink:  how_my_dog_going_viral_gave_me_the_perfect_idea_for_my_rails_project
 ---
 
