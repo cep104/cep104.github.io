@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finding the Best Winner in Drag Race HERstory with JavaScript Part 2"
-date:       2021-01-16 02:34:39 +0000
+date:       2021-01-15 21:34:40 -0500
 permalink:  finding_the_best_winner_in_drag_race_herstory_with_javascript_part_2
 ---
 
@@ -9,7 +9,7 @@ permalink:  finding_the_best_winner_in_drag_race_herstory_with_javascript_part_2
 ![](https://attitude.co.uk/media/images/2020/04/drag_race_main.jpg.750x400_q85_box-0%2C0%2C1500%2C800_crop_detail.jpg)
 
 
-**PART 1:** https://cep104.github.io/finding_the_best_winner_in_drag_race_herstory_with_javascript_part_1
+[**PART 1:** ](https://cep104.github.io/finding_the_best_winner_in_drag_race_herstory_with_javascript_part_1)
 
 Now that we have the winners object ready to go it is time to start setting up a function to help us determine who the ultimate winner of Drag Race is based on points. First I would have to come up with a system for the points, when I made teh data I made two seperate keys in the winners object, one for wins and one for losses. Inside of those there is categories for major wins/losses and minor wins/losses. I decided that each major win will count as 2 points since they are valued more where minor wins will count as just a single point. 
 ```
