@@ -1,11 +1,13 @@
 ---
 layout: post
 title:      "Finding the Best Winner in Drag Race HERstory  with JavaScript Part 1"
-date:       2021-01-09 04:24:22 +0000
+date:       2021-01-08 23:24:22 -0500
 permalink:  finding_the_best_winner_in_drag_race_herstory_with_javascript_part_1
 ---
 
-![](https://media0.giphy.com/media/l3fQ8O6sjZuQMhc3u/source.gifhttp://)
+![](https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/xpfukdrt1yzhdnsk69en.jpg)
+
+
 RuPaul’s Drag Race is one of if not the best reality television show ever made. It has fashion, comedy, stunts, and of course all the drama you could ask for. One thing it has never had before is an all-winners season. So, I decided to use the power of JavaScript to find out who would win based on previous stats and rankings. For the purpose of simplicity, I chose only the original Drag Race so not All Stars and no world seasons. To be able to make an application that would tell me who the best Drag Queen winner of all time I would first need to collect data on all the winning queens. In JavaScript there are many ways to store data but because I would be having multiple factors associated with every queen a object seems like the best way to store all the data. To store data inside an object you need sets of keys with values. This way we will have all are data stored is in one big winners object with each queen objected nested inside the original object. 
 
 ****SPOILER WARNING***********
