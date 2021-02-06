@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Using 'each_with_index' in Ruby to puts out a recipe"
-date:       2021-02-06 03:25:22 +0000
+title:      "Using 'each_with_index' in Ruby to print out a recipe"
+date:       2021-02-05 22:25:22 -0500
 permalink:  using_each_with_index_in_ruby_to_puts_out_a_recipe
 ---
 
